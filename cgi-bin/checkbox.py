@@ -15,7 +15,6 @@ else:
 
 print("Content-type:text/html")
 print()
-print()
 print("<html>")
 print("<head>")
 print("<meta charset=\"utf-8\">")

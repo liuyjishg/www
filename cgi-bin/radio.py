@@ -2,8 +2,8 @@
 import cgi,cgitb
 form = cgi.FieldStorage()
 
-if form.getvalue('site')
-    site = form.getvalue(site)
+if form.getvalue('site'):
+    site = form.getvalue('site')
 else:
     site = "空数据"
 
