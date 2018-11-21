@@ -3,12 +3,12 @@ import cgi,cgitb
 
 form = cgi.FieldStorage()
 
-if form.getvalue('google')
+if form.getvalue('google'):
     google_flag = "是"
 else:
     google_flag = "否"
 
-if form.getvalue('youj')
+if form.getvalue('youj'):
     youj_flag = "是"
 else:
     youj_flag = "否"
