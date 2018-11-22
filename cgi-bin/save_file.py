@@ -7,7 +7,7 @@ form = cgi.FieldStorage()
 fileitem = form['filename']
 
 if fileitem.filename:
-    fn = os.path.basename(fileitem.filename)
+    fn = os.path.basename(fileitem.filename.replace("\\","/"))
     open('/tmp/'+ fn,'wb').write(fileitem.file.read())
 
     message = '文件 "' + fn + '" 上传成功'

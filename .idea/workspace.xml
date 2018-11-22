@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69097a23-0248-4c38-8a2c-9a578f776596" name="Default Changelist" comment="add file">
-      <change afterPath="$PROJECT_DIR$/cgi-bin/save_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/put_file.html" afterDir="false" />
+    <list default="true" id="69097a23-0248-4c38-8a2c-9a578f776596" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +34,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="396" />
-          <entry key="py" value="1296" />
+          <entry key="py" value="1320" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
@@ -44,7 +42,7 @@
         <counts>
           <entry key="HTML" value="396" />
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="1296" />
+          <entry key="Python" value="1320" />
         </counts>
       </usages-collector>
     </session>
@@ -55,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/html/put_file.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -63,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cgi-bin/save_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="e#19#33#0" expanded="true" />
               </folding>
@@ -218,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542792043182</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add file">
+      <created>1542855225805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542855225806</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -234,7 +239,7 @@
     <frame x="821" y="244" width="1066" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21769384" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21769384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,8 +253,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50107527" side_tool="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49892473" weight="0.24460432" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49892473" visible="true" weight="0.30503598" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49892473" visible="true" weight="0.24460432" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49892473" weight="0.30503598" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32805756" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -293,7 +298,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add checkbox" />
     <MESSAGE value="modify code" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify code" />
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cgi-bin/aa.py" />
@@ -345,14 +351,14 @@
     <entry file="file://$PROJECT_DIR$/html/put_file.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cgi-bin/save_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="e#19#33#0" expanded="true" />
           </folding>
