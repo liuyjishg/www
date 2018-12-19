@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69097a23-0248-4c38-8a2c-9a578f776596" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cgi-bin/pa1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cgi-bin/pa1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cgi-bin/aa1/a1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,19 +26,19 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="6" />
-          <entry key="py" value="19" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="6" />
-          <entry key="Python" value="19" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="396" />
-          <entry key="py" value="3144" />
+          <entry key="py" value="3265" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
@@ -45,30 +46,18 @@
         <counts>
           <entry key="HTML" value="396" />
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="3144" />
+          <entry key="Python" value="3265" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cgi-bin/num.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="e#19#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cgi-bin/pa1.py">
+        <entry file="file://$PROJECT_DIR$/cgi-bin/aa1/a1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -108,6 +97,7 @@
         <option value="$PROJECT_DIR$/cgi-bin/data1.py" />
         <option value="$PROJECT_DIR$/cgi-bin/num.py" />
         <option value="$PROJECT_DIR$/cgi-bin/pa1.py" />
+        <option value="$PROJECT_DIR$/cgi-bin/aa1/a1.py" />
       </list>
     </option>
   </component>
@@ -292,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544603971043</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add file">
+      <created>1544604141759</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1544604141759</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -308,7 +305,7 @@
     <frame x="779" y="159" width="1066" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22962226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22962226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,7 +319,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50198805" side_tool="true" weight="0.24460432" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49801192" visible="true" weight="0.24460432" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49801192" visible="true" weight="0.24460432" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49892473" weight="0.30503598" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32805756" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -473,6 +470,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cgi-bin/pa1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cgi-bin/num.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -483,10 +487,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cgi-bin/pa1.py">
+    <entry file="file://$PROJECT_DIR$/cgi-bin/aa1/a1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
