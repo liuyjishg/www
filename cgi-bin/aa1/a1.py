@@ -8,4 +8,5 @@ if __name__ == '__main__':
     req = requests.get(url=target)
     html = req.text
     bf = BeautifulSoup(html)
-    tests = bf.find_all('div',class_='showtxt') print(tests)
+    tests = bf.find_all('div',class_='showtxt') 
+    print(tests)
